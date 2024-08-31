@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "rafaeljvieira.github.io",
+    "objectID": "posts/hello-world.html",
+    "href": "posts/hello-world.html",
+    "title": "Hello World!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is my first post on my website. Time allowing, I plan to make occasional posts on the tools I use in my research and teaching.\nThis website is entirely built with Quarto and R, and powered by GitHub Pages."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nAug 24, 2024\n\n\nHello World!\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rafael José Vieira",
+    "section": "",
+    "text": "Ph.D, Clinical and Health Services Research, 2025 (Faculty of Medicine, University of Porto)\nM.D., Medicine, 2020 (Faculty of Medicine, University of Porto)\n\n\n\n\n\nHealth Technology Assessment\nEvidence Synthesis\nCausal Inference\nBayesian Statistics\nData Analysis with R"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Rafael José Vieira",
+    "section": "",
+    "text": "Ph.D, Clinical and Health Services Research, 2025 (Faculty of Medicine, University of Porto)\nM.D., Medicine, 2020 (Faculty of Medicine, University of Porto)"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Rafael José Vieira",
+    "section": "",
+    "text": "Health Technology Assessment\nEvidence Synthesis\nCausal Inference\nBayesian Statistics\nData Analysis with R"
   }
 ]

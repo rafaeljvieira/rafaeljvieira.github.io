@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rafaeljvieira.github.io/index.html</loc>
-    <lastmod>2024-08-31T15:02:24.352Z</lastmod>
+    <loc>https://rafaelvieira.eu/posts/hello-world.html</loc>
+    <lastmod>2024-08-31T15:06:32.204Z</lastmod>
   </url>
   <url>
-    <loc>https://rafaeljvieira.github.io/about.html</loc>
-    <lastmod>2024-08-31T15:02:24.352Z</lastmod>
+    <loc>https://rafaelvieira.eu/blog.html</loc>
+    <lastmod>2024-08-31T15:06:32.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rafaelvieira.eu/index.html</loc>
+    <lastmod>2024-08-31T15:06:32.204Z</lastmod>
   </url>
 </urlset>
