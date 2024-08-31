@@ -1,0 +1,13 @@
+---
+title: "Hello World!"
+date: "2024-08-24"
+categories:
+  - rstats
+engine: markdown
+code-fold: true
+image: rjv2024.png
+---
+
+This is my first post on my website. Time allowing, I plan to make occasional posts on the tools I use in my research and teaching. 
+
+This website is entirely built with [Quarto](http://quarto.org) and [R](https://www.r-project.org), and powered by [GitHub Pages](https://pages.github.com).

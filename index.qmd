@@ -1,11 +1,38 @@
 ---
-title: "rafaeljvieira.github.io"
+title: "Rafael José Vieira"
+about:
+    id: hero-heading # having a written section below the two-columns format
+    template: trestles
+    image: rjv2024.png
+    links:
+      - icon: linkedin
+        href: https://linkedin.com/in/rafaeljvieira
+      - icon: twitter
+        href: https://twitter.com/rafaeljmsvieira
+      - text: '<i class="ai ai-orcid fa-lg"></i>'
+        href: https://github.com/rafaeljvieira
+      - text: '<i class="ai ai-researchgate fa-lg"></i>'
+        href: https://scholar.google.com/citations?user=5xJNqF8AAAAJ
+      - text: '<i class="ai ai-google-scholar fa-lg"></i>'
+        href: https://scholar.google.com/citations?user=5xJNqF8AAAAJ
+      - icon: envelope
+        href: mailto:rafaelvieira@med.up.pt
+        
 ---
 
-This is a Quarto website.
+<!-- This part is above the two-columns  -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {#hero-heading}
+## Education
 
-```{r}
-1 + 1
-```
+-   Ph.D, Clinical and Health Services Research, 2025 (Faculty of Medicine, University of Porto)
+-   M.D., Medicine, 2020 (Faculty of Medicine, University of Porto)
+
+## Interests
+
+-   Health Technology Assessment
+-   Evidence Synthesis
+-   Causal Inference
+-   Bayesian Statistics
+-   Data Analysis with R
+:::

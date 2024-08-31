@@ -1,0 +1,26 @@
+# options apply to all posts in this folder
+
+# freeze computational output
+freeze: auto
+
+# Make a big title block
+title-block-banner: false
+
+# long dates
+date-format: long
+
+# smooth scroll
+smooth-scroll: true
+
+# Default author
+#author:
+#  - name: Rafael José Vieira
+#    url: https://rafaelvieira.eu
+#    affiliation: Faculty of Medicine, University of Porto
+#    affiliation-url: https://www.med.up.pt/
+
+# citation
+#citation: true
+
+# Enable CC licence appendix
+#license: "CC BY"

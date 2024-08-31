@@ -1,19 +1,40 @@
 project:
   type: website
+  render:
+    - "*.qmd" # dont't render the below when site is built (pre-render each)
+    #- "!posts/" 
+    - "!files/" 
 
 website:
-  title: "rafaeljvieira.github.io"
+  title: "Rafael José Vieira"
+  site-url: "https://rafaelvieira.eu"
+  description: "Personal website of Rafael José Vieira"
+  favicon: "rjv2024.png"
+  twitter-card:
+    image: "rjv2024.png"
+    creator: "@rafaeljmsvieira"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: CV.html
+        text: CV
+      #- research.qmd
+      #- teaching.qmd
+      #- software.qmd
+      - blog.qmd
+  page-footer:
+    center: "Built with [Quarto](https://quarto.org/)."
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
-
-
+    include-in-header:
+      - includes.html
+      
+editor: visual
 
