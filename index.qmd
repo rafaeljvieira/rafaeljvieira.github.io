@@ -25,7 +25,7 @@ about:
 ::: {#hero-heading}
 ## Education
 
--   Ph.D, Clinical and Health Services Research, 2025 (Faculty of Medicine, University of Porto)
+-   Ph.D candidate, Clinical and Health Services Research, 2025 (Faculty of Medicine, University of Porto)
 -   M.D., Medicine, 2020 (Faculty of Medicine, University of Porto)
 
 ## Interests
