@@ -25,7 +25,7 @@ about:
 ::: {#hero-heading}
 ## Education
 
--   Ph.D candidate, Clinical and Health Services Research, 2025 (Faculty of Medicine, University of Porto)
+-   Ph.D, Clinical and Health Services Research, 2025 (Faculty of Medicine, University of Porto)
 -   M.D., Medicine, 2020 (Faculty of Medicine, University of Porto)
 
 ## Interests
@@ -35,4 +35,15 @@ about:
 -   Causal Inference
 -   Bayesian Statistics
 -   Data Analysis with R
+-   Planetary Health
 :::
+
+---
+
+Rafael José Vieira (MD, PhD) is an Invited Assistant at the [Faculty of Medicine of the University of Porto](https://www.med.up.pt/) and a researcher at [RISE-Health](https://www.rise-health.pt) (Health Research Network). He obtained his Medical Degree (2020) and his PhD in Clinical and Health Services Research (2025) from the Faculty of Medicine of the University of Porto.
+
+He bridges his medical expertise and data science skills to inform and shape evidence-based health policies. His work focuses on **health technology assessment**, with a strong foundation in **evidence synthesis**, **health economics**, **clinical guidelines**, and **biostatistics**. He teaches at the Faculty of Medicine of the University of Porto, lecturing on these topics at both undergraduate and postgraduate levels.
+
+He has authored or co-authored over **50 scientific publications**, with an h-index of 12. He is a biostatistics reviewer for The Journal of Allergy and Clinical Immunology: In Practice, and regularly acts as an ad hoc reviewer for several other scientific journals.   
+
+He is an active member of the [GRADE Working Group](https://www.gradeworkinggroup.org), being particularly active in the GRADE Planetary Health and GRADE Artificial Intelligence interest groups. He is also a member of the Portuguese GRADE Network and of the Porto Associate Center of Cochrane Portugal.
